@@ -3,7 +3,7 @@ const numberbox = document.getElementById("numberbox");
 const slider = document.getElementById("slider");
 const progressBar = document.getElementById("progress-bar");
 const playButton = document.getElementById('play-button');
-const pauseButton = document.getElementById("pause-button");
+
 
 const queen = '<i class="fas fa-chess-queen" style="color:#000"></i>';
 
